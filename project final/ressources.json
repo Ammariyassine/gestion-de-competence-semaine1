@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "type": "materielle",
+    "nom": "portable",
+    "disponibilite": true
+  },
+  {
+    "id": 5,
+    "type": "materielle",
+    "nom": "phone",
+    "disponibilite": true
+  },
+  {
+    "id": 6,
+    "type": "materielle",
+    "nom": "pc",
+    "disponibilite": true
+  }
+]
